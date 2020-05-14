@@ -1,0 +1,19 @@
+﻿  Product.cpp
+Product.obj : error LNK2005: "public: __thiscall Product::Product(char const *,struct tm,struct tm,char const *,int,int,char const *)" (??0Product@@QAE@PBDUtm@@10HH0@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: __thiscall Product::Product(void)" (??0Product@@QAE@XZ) already defined in main.obj
+Product.obj : error LNK2005: "public: char * __thiscall Product::get_comment(void)" (?get_comment@Product@@QAEPADXZ) already defined in main.obj
+Product.obj : error LNK2005: "public: char * __thiscall Product::get_developer(void)" (?get_developer@Product@@QAEPADXZ) already defined in main.obj
+Product.obj : error LNK2005: "public: struct tm __thiscall Product::get_expiredate(void)" (?get_expiredate@Product@@QAE?AUtm@@XZ) already defined in main.obj
+Product.obj : error LNK2005: "public: struct tm __thiscall Product::get_importdate(void)" (?get_importdate@Product@@QAE?AUtm@@XZ) already defined in main.obj
+Product.obj : error LNK2005: "public: char * __thiscall Product::get_name(void)" (?get_name@Product@@QAEPADXZ) already defined in main.obj
+Product.obj : error LNK2005: "public: int __thiscall Product::get_place(void)" (?get_place@Product@@QAEHXZ) already defined in main.obj
+Product.obj : error LNK2005: "public: int __thiscall Product::get_quantity(void)" (?get_quantity@Product@@QAEHXZ) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_comment(char const *)" (?set_comment@Product@@QAEXPBD@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_developer(char const *)" (?set_developer@Product@@QAEXPBD@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_expiredate(struct tm)" (?set_expiredate@Product@@QAEXUtm@@@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_importdate(struct tm)" (?set_importdate@Product@@QAEXUtm@@@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_name(char const *)" (?set_name@Product@@QAEXPBD@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_place(int)" (?set_place@Product@@QAEXH@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::set_quantity(int)" (?set_quantity@Product@@QAEXH@Z) already defined in main.obj
+Product.obj : error LNK2005: "public: void __thiscall Product::showfullInfo(void)" (?showfullInfo@Product@@QAEXXZ) already defined in main.obj
+D:\Universitet\domashno UP+OOP\OOP\Storage\Debug\Storage.exe : fatal error LNK1169: one or more multiply defined symbols found

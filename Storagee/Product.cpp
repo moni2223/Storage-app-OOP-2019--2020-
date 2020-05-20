@@ -17,21 +17,6 @@ Product::Product(const char* name, struct tm expiredate, struct tm importdate, c
 }
 Product::Product() :Product("Unknown", { 0 }, { 0 }, "Unknown", 0, 0, 0, "Unknown") {};
 
-//void Product::CopyFrom(const Product& other) 
-//{
-//	name = new char[strlen(other.name) + 1];
-//	strcpy(name, other.name);
-//
-//	expiredate = other.expiredate;
-//	importdate = other.importdate;
-//
-//	strcpy(developer, other.developer);
-//	quantity = other.quantity;
-//
-//
-//	comment = new char[strlen(other.comment) + 1];
-//	strcpy(comment, other.comment);
-//}
 void Product::Free()// ne trqbva da delocatevame datite zashtoto sa statically allocated
 {
 	delete[] name;
@@ -40,24 +25,10 @@ void Product::Free()// ne trqbva da delocatevame datite zashtoto sa statically a
 	delete[] comment;
     
 }
-//Product& Product::operator=(const Product& other)
-//{
-//	if (this != &other)
-//	{
-//		Free();
-//		CopyFrom(other);
-//	}
-//	return *this; // this   Product*
-//}
 Product::~Product()
 {
 	Free();
 }
-//Product::Product(const Product& other)
-//{
-//	CopyFrom(other);
-//}
-
 char* Product::get_name()
 {
 	return name;

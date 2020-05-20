@@ -1,10 +1,20 @@
 ﻿  Storagee.cpp
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(15,20): warning C4018: '<': signed/unsigned mismatch
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(54,20): warning C4018: '<': signed/unsigned mismatch
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(51,6): warning C4101: 'num1': unreferenced local variable
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(52,6): warning C4101: 'num2': unreferenced local variable
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(72,20): warning C4018: '<': signed/unsigned mismatch
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(161,21): warning C4390: ';': empty controlled statement found; is this the intent?
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(173,21): warning C4390: ';': empty controlled statement found; is this the intent?
-D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Storagee.cpp(10,7): warning C4101: 'input': unreferenced local variable
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(46,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(63,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(87,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(104,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(128,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(145,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(162,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(180,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\userfunctions.h(198,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(34,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(31,6): warning C4101: 'num1': unreferenced local variable
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(32,6): warning C4101: 'num2': unreferenced local variable
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(52,20): warning C4018: '<': signed/unsigned mismatch
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(182,21): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Functions.h(194,21): warning C4390: ';': empty controlled statement found; is this the intent?
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Storagee.cpp(11,7): warning C4101: 'input': unreferenced local variable
+D:\Universitet\domashno UP+OOP\OOP\Storagee\Storagee\Storagee.cpp(68,9): warning C4101: 'input': unreferenced local variable
   Storagee.vcxproj -> D:\Universitet\domashno UP+OOP\OOP\Storagee\Debug\Storagee.exe

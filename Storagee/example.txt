@@ -1,0 +1,19 @@
+add Vafla 21.09.2020 16.08.2020 Moreni 1 mnogo qka taq vafla
+add Vafla 21.09.2020 17.08.2020 Moreni 1 daje po qka ot minalata tupa vafla
+add Sladoled 24.11.2021 18.08.2020 Raffy 5 Lubimiqt na lubimata
+add Spaghetti 29.07.2020 19.08.2020 Maggi 15 Nai-dobrite 5-minutni spageti
+add Margarin 31.08.2022 12.09.2020 Becel 40 Obiknoven margarin
+add Margarin 30.06.2024 18.09.2020 Becel 42 Obiknoven margarin
+add Hlqb 31.05.2020 11.05.2020 Bulgariq 40 Nai-izgodniq hlqb za obiknoveniq potrebitel
+add Franzela 30.05.2020 12.05.2020 K-Classic 28 Lubimata franzela na CR7 :)
+remove Sladoled 2
+remove Spaghetti 4
+remove Franzela 4
+remove Spaghetti 12
+print
+clean
+log 01.05.2020 31.05.2020
+help
+save
+open example.txt
+
